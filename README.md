@@ -43,6 +43,12 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [lingmo-live-build-respin-theme-lingmo-icon-citrus](https://samwhelp.github.io/lingmo-live-build-respin-theme-lingmo-icon-citrus/) | [GitHub](https://github.com/samwhelp/lingmo-live-build-respin-theme-lingmo-icon-citrus) |
+| [lingmo-live-build-respin-theme-lingmo-icon-oneui](https://samwhelp.github.io/lingmo-live-build-respin-theme-lingmo-icon-oneui/) | [GitHub](https://github.com/samwhelp/lingmo-live-build-respin-theme-lingmo-icon-oneui) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [lingmo-live-build-respin-theme-vimix](https://samwhelp.github.io/lingmo-live-build-respin-theme-vimix/) | [GitHub](https://github.com/samwhelp/lingmo-live-build-respin-theme-vimix) |
 | [lingmo-live-build-respin-theme-orchis](https://samwhelp.github.io/lingmo-live-build-respin-theme-orchis/) | [GitHub](https://github.com/samwhelp/lingmo-live-build-respin-theme-orchis) |
 | [lingmo-live-build-respin-theme-graphite](https://samwhelp.github.io/lingmo-live-build-respin-theme-graphite/) | [GitHub](https://github.com/samwhelp/lingmo-live-build-respin-theme-graphite) |
